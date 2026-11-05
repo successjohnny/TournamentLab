@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local tournament data
+tournament.json
+demo_tournament.json
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
